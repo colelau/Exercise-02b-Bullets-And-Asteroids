@@ -17,4 +17,6 @@ None
 None
 
 ## Created by
-Nathan Mishler
+Lauren Cole
+
+colelau
